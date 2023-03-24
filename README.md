@@ -124,7 +124,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Mugunth007"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mugunth007&custom_title=Mugunth%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
