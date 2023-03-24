@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mugunth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;React+Developer;Data+Analyst;Project+Management;Frontend+Enginner"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=500&center=true&width=500&height=50&font=georgia&lines=Data+Scientist;React+Developer;Data+Analyst;Project+Management;Frontend+Enginner"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Aspiring Data Scientist and React Developer.pursuing B.Tech. CSE in Vellore Institute of Technology. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
